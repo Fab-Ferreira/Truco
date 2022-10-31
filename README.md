@@ -73,7 +73,7 @@ for(int i = 0; i < 10; i++)
   
   Se a carta mais forte descartada for do usuário ou do parceiro (o computador), essa dupla terá feito a rodada, senão se forem os outros dois computadores, a dupla adversária terá feito a rodada.
   
-  O usuário pode pedir truco quando for na sua vez apertando no botão "Truco", porém, no caso dos computadores, eles pedem através de ***Random***. Se nesse Random pegar um número específico, o computador pedirá truco. Essa mecânica funciona também para caso ele tenha que decidir entre correr, aceitar ou aumentar um pedido de truco. Siga abaixo a chance do computador fazer essas ações:
+  O usuário pode pedir truco quando for na sua vez apertando no botão "Truco". Porém, no caso dos computadores, eles pedem através de ***Random***. Se nesse Random pegar um número específico, o computador pedirá truco. Essa mecânica funciona também para caso ele tenha que decidir entre correr, aceitar ou aumentar um pedido de truco. Siga abaixo a chance do computador fazer essas ações:
   
   Pedir Truco | Correr | Aceitar | Aumentar Aposta | Continuar com as Cartas ou fugir (Mão de Onze)
   ----- | ------ | ----- | ----- | -----
