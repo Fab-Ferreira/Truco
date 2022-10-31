@@ -10,7 +10,7 @@
 #### Ordem das Cartas e dos Naipes:
   Segue abaixo a ordem das cartas e dos naipes (do mais forte ao mais fraco):
   
-  <img src="http://www.jogosdorei.com.br/images/baralho-online/cartas/sequencia-truco-fr.png" width=700 height=200>
+  <img src="http://www.jogosdorei.com.br/images/baralho-online/cartas/sequencia-truco-fr.png" width=525 height=150>
   <img src="https://www.fazfacil.com.br/wp-content/uploads/2014/01/20140130-truco-ordem-naipes.png" width=500 height=250>
  
 #### Manilha
