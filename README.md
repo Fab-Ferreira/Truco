@@ -10,8 +10,8 @@
 #### Ordem das Cartas e dos Naipes:
   Segue abaixo a ordem das cartas e dos naipes (do mais forte ao mais fraco):
   
-  ![Ordem das cartas](http://www.jogosdorei.com.br/images/baralho-online/cartas/sequencia-truco-fr.png)
-  ![Ordem dos naipes](https://www.fazfacil.com.br/wp-content/uploads/2014/01/20140130-truco-ordem-naipes.png)
+  <img src="http://www.jogosdorei.com.br/images/baralho-online/cartas/sequencia-truco-fr.png" width=100 height=20>
+  <img src="https://www.fazfacil.com.br/wp-content/uploads/2014/01/20140130-truco-ordem-naipes.png" width=100 height=20>
  
 #### Manilha
   Quando a partida é iniciada, uma carta é gerada no topo superior direito da tela na qual irá determinar a carta mais forte desta partida.
