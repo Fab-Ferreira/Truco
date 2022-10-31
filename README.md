@@ -1,6 +1,6 @@
 # Truco
 ## Introdução
-  Olá! Este é um programa que fiz com a ajuda da minha amiga **Alicia-Marcolino**, onde é simulado um jogo de Truco Paulista. O programa a seguir foi feito no SharpDevelop utilizando o Windows Application.
+  Olá! Este é um programa que fiz com a ajuda da minha amiga, onde é simulado um jogo de Truco Paulista. O programa a seguir foi feito no SharpDevelop utilizando o Windows Application.
   
   **Observação:** Para que algumas fontes funcione, é preciso instalar o arquivo "CantataOne-Regular.tff" no seu aparelho. O arquivo está no caminho Truco/Truco/Bin/Debug
 &nbsp;
@@ -80,4 +80,5 @@ for(int i = 0; i < 10; i++)
   6% | 40% | 44% | 16% | 50%
   
 Este é o meu programa, meus agradecimentos especiais a minha amiga que é minha colega de classe pelo design do jogo, esperamos que tenha gostado e que a explicação do jogo tenha sido eficaz. No próprio código, há alguns comentários explicando as linhas para caso queira compreender melhor a lógica do programa.
+
 Página do Github dela: [Alicia-Marcolino](https://github.com/Alicia-Marcolino)
