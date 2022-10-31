@@ -1,4 +1,5 @@
-﻿using System;
+//Código feito por Fabrício Prudente Ferreira﻿
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 
