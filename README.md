@@ -1,6 +1,6 @@
 # Truco
 ## Introdução
-  Olá! Este é um programa que fiz com a ajuda da minha amiga @Fab-Ferreira, onde é simulado um jogo de Truco Paulista. O programa a seguir foi feito no SharpDevelop utilizando o Windows Application.
+  Olá! Este é um programa que fiz com a ajuda da minha amiga @Alicia-Marcolino, onde é simulado um jogo de Truco Paulista. O programa a seguir foi feito no SharpDevelop utilizando o Windows Application.
   
   **Observação:** Para que algumas fontes funcione, é preciso instalar o arquivo "CantataOne-Regular.tff" no seu aparelho. O arquivo está no caminho Truco/Truco/Bin/Debug
 &nbsp;
