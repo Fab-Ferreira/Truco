@@ -80,4 +80,4 @@ for(int i = 0; i < 10; i++)
   6% | 40% | 44% | 16% | 50%
   
 Este é o meu programa, meus agradecimentos especiais a minha amiga que é minha colega de classe pelo design do jogo, esperamos que tenha gostado e que a explicação do jogo tenha sido eficaz. No próprio código, há alguns comentários explicando as linhas para caso queira compreender melhor a lógica do programa.
-Página do Github dela: ![Alicia]("https://github.com/Alicia-Marcolino")
+Página do Github dela: [Alicia-Marcolino]("https://github.com/Alicia-Marcolino")
