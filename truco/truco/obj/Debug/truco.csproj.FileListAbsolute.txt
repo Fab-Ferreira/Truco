@@ -1,0 +1,18 @@
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\bin\Debug\truco.exe.config
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\bin\Debug\truco.exe
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\bin\Debug\truco.pdb
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.csprojResolveAssemblyReference.cache
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.MainForm.resources
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.csproj.GenerateResource.Cache
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.exe
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.pdb
+U:\Projetos Aleatórios\C#\truco\truco\bin\Debug\truco.exe.config
+U:\Projetos Aleatórios\C#\truco\truco\bin\Debug\truco.exe
+U:\Projetos Aleatórios\C#\truco\truco\bin\Debug\truco.pdb
+U:\Projetos Aleatórios\C#\truco\truco\obj\Debug\truco.csprojResolveAssemblyReference.cache
+U:\Projetos Aleatórios\C#\truco\truco\obj\Debug\truco.MainForm.resources
+U:\Projetos Aleatórios\C#\truco\truco\obj\Debug\truco.csproj.GenerateResource.Cache
+U:\Projetos Aleatórios\C#\truco\truco\obj\Debug\truco.exe
+U:\Projetos Aleatórios\C#\truco\truco\obj\Debug\truco.pdb
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.TrucoScreen.resources
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\truco\truco\obj\Debug\truco.Tutorial.resources
